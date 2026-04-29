@@ -26,3 +26,6 @@ Thumbs.db
 .vscode/
 .idea/
 .claude/
+
+# Large local-only datasets
+03-pandas-seaborn/data/hotel_booking_data.csv
